@@ -1,0 +1,77 @@
+body{
+     background-image: url('https://images.unsplash.com/photo-1596633608169-2ee5f4ed60e3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+}
+
+h1{
+    font-size: 70px;
+    color:orange;
+    text-align:auto;
+    text-shadow: 2px;
+    text-indent: 5px;
+    text-shadow: 3px 3px 6px #000000;
+}
+
+#formstyle{
+    width: 350px;
+    margin: 100px;
+    height: 350px;
+    align-items: center;
+    background-color:rgb(182, 90, 90);
+    vertical-align: middle;
+    position: fixed;
+
+
+}input{ 
+
+    width: 65px;
+    height: 33px;
+    margin-left: 1.5px;
+    font-size: 21px;
+}
+
+#answer{
+    width: 250px;
+    height: 39px;
+    border: black;
+    border-top: 1px;
+    border-bottom: 1px; 
+    margin: 2px;
+    font-size:21px;
+}
+    
+#del{
+    width: 82px;
+    height: 40px;
+    margin: 1px;
+    font-size: 21px;
+}
+
+#total{
+    width: 300px;
+    height: 3opx;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 21px;
+    text-align: center;
+}
+ 
+#button1{
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    font-size: 21px;
+    font-style: bold;
+    color: black;
+    text-align: center;
+}
+
+#button1:hover{
+    background-color:lightskyblue;
+    color:palevioletred;
+} 
+
+   
